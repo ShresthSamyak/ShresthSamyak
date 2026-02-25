@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:000d1a,70:001428,100:000000&height=280&section=header&text=SHRESTH%20SAMYAK&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20·%20Computer%20Vision%20·%20Heavy%20Industry%20Intelligence&descColor=00aaff&descSize=17&descAlignY=65&animation=fadeIn&stroke=00aaff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:001a33,100:000000&height=280&section=header&text=SHRESTH%20SAMYAK&fontSize=70&fontColor=00ccff&fontAlignY=60&desc=AI%20Engineer%20·%20Computer%20Vision%20·%20Heavy%20Industry%20Intelligence&descColor=88ddff&descSize=17&descAlignY=78&animation=twinkling&stroke=00ccff&strokeWidth=2" width="100%"/>
 
 <div align="center">
 

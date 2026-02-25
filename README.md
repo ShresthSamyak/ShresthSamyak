@@ -1,4 +1,41 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:001a33,100:000000&height=280&section=header&text=SHRESTH%20SAMYAK&fontSize=70&fontColor=00ccff&fontAlignY=60&desc=AI%20Engineer%20·%20Computer%20Vision%20·%20Heavy%20Industry%20Intelligence&descColor=88ddff&descSize=17&descAlignY=78&animation=twinkling&stroke=00ccff&strokeWidth=2" width="100%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/ShresthSamyak/ShresthSamyak/main/terminal.svg" alt="terminal header" />
+</div>
+
+<!--
+PASTE THIS SVG as terminal.svg in your profile repo root:
+
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="280" rx="12" fill="#0d1117"/>
+  <rect width="900" height="36" rx="12" fill="#161b22"/>
+  <rect y="24" width="900" height="12" fill="#161b22"/>
+  <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="18" r="6" fill="#28c840"/>
+  <text x="430" y="23" font-family="monospace" font-size="12" fill="#6e7681" text-anchor="middle">shresth@dev: ~/profile</text>
+  <text x="30" y="80" font-family="'Courier New', monospace" font-size="13" fill="#6e7681">Last login: Mon Feb 25 17:28:00 2026 on ttys001</text>
+  <text x="30" y="110" font-family="'Courier New', monospace" font-size="14" fill="#3fb950">shresth@dev</text>
+  <text x="138" y="110" font-family="'Courier New', monospace" font-size="14" fill="#6e7681">:</text>
+  <text x="150" y="110" font-family="'Courier New', monospace" font-size="14" fill="#58a6ff">~/profile</text>
+  <text x="240" y="110" font-family="'Courier New', monospace" font-size="14" fill="#e6edf3">$ cat identity.sh</text>
+  <text x="30" y="148" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#e6edf3">SHRESTH SAMYAK</text>
+  <text x="30" y="180" font-family="'Courier New', monospace" font-size="14" fill="#3fb950">→</text>
+  <text x="52" y="180" font-family="'Courier New', monospace" font-size="14" fill="#58a6ff">AI Engineer</text>
+  <text x="154" y="180" font-family="'Courier New', monospace" font-size="14" fill="#6e7681"> · </text>
+  <text x="172" y="180" font-family="'Courier New', monospace" font-size="14" fill="#58a6ff">Computer Vision</text>
+  <text x="318" y="180" font-family="'Courier New', monospace" font-size="14" fill="#6e7681"> · </text>
+  <text x="336" y="180" font-family="'Courier New', monospace" font-size="14" fill="#58a6ff">Heavy Industry Intelligence</text>
+  <text x="30" y="218" font-family="'Courier New', monospace" font-size="13" fill="#6e7681"># mission: pull a startup · ship daily · solve real problems</text>
+  <text x="30" y="250" font-family="'Courier New', monospace" font-size="14" fill="#3fb950">shresth@dev</text>
+  <text x="138" y="250" font-family="'Courier New', monospace" font-size="14" fill="#6e7681">:</text>
+  <text x="150" y="250" font-family="'Courier New', monospace" font-size="14" fill="#58a6ff">~/profile</text>
+  <text x="240" y="250" font-family="'Courier New', monospace" font-size="14" fill="#e6edf3">$</text>
+  <rect x="254" y="236" width="10" height="18" fill="#e6edf3" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+-->
+
 
 <div align="center">
 

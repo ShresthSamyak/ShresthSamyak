@@ -1,47 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0066ff,100:7b00ff&height=220&section=header&text=SHRESTH%20SAMYAK&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=⚡%20AI%20Engineer%20·%20Industrial%20Intelligence%20·%20Builder&descColor=88ccff&descAlignY=65&animation=fadeIn&stroke=0044cc&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:000d1a,70:001428,100:000000&height=280&section=header&text=SHRESTH%20SAMYAK&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=AI%20Engineer%20·%20Computer%20Vision%20·%20Heavy%20Industry%20Intelligence&descColor=00aaff&descSize=17&descAlignY=65&animation=fadeIn&stroke=00aaff&strokeWidth=1" width="100%"/>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00AAFF&center=true&vCenter=true&width=650&lines=Building+Autonomous+Process+Intelligence+⚡;Computer+Vision+for+the+real+world;Scaling+AI+from+prototype+→+production;Solving+India's+infrastructure+with+AI;Always+shipping.+Never+stopping.)
+
+</div>
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  > INITIALIZING PROFILE...                                       ║
-║  > LOADING: Autonomous Process Intelligence Systems              ║
-║  > STATUS:  Building the future of heavy industry with AI        ║
-║  > SIGNAL:  Open to collaborate · Always shipping               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+---
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### `> whoami`
+**`〉whoami`**
 
 ```yaml
 name      : Shresth Samyak
-role      : AI Engineer & Founder
-focus     : Autonomous Process Intelligence
+role      : AI Engineer
+mission   : Pull a startup
 domain    : Heavy Industry · Energy · CV
-location  : India
-status    : Building & Shipping
+base      : India 🇮🇳
+streak    : Shipping daily
+open_to   : AI collabs · startups · vision
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### `> current_mission`
+**`〉cat objectives.py`**
 
 ```python
-# Solving real problems with AI
-targets = [
-    "Energy optimization at scale",
-    "Industrial process automation",
-    "India infra & pollution tech",
-    "Proto → Production pipelines",
+building = [
+  "Autonomous Process Intelligence",
+  "Computer Vision systems",
+  "AI for India infra + pollution",
 ]
-conviction = "Ship or it doesn't exist."
+
+learning = [
+  "Fine-tuning + RAG + local LLMs",
+  "Web3 · Systems design · Finance",
+]
+
+goal = "Launch. Scale. Impact."
 ```
 
 </td>
@@ -52,64 +56,90 @@ conviction = "Ship or it doesn't exist."
 
 ---
 
-### `> ls ./tech_stack`
+<br/>
+
+**`〉ls -la ./tech_stack`**
 
 <br/>
 
-**`// CORE LANGUAGES`**
+`// LANGUAGES`
+&nbsp;
+![Python](https://img.shields.io/badge/Python-000d1a?style=for-the-badge&logo=python&logoColor=00aaff)
+![C++](https://img.shields.io/badge/C++-000d1a?style=for-the-badge&logo=c%2B%2B&logoColor=00aaff)
+![Go](https://img.shields.io/badge/Go-000d1a?style=for-the-badge&logo=go&logoColor=00aaff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000d1a?style=for-the-badge&logo=typescript&logoColor=00aaff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000d1a?style=for-the-badge&logo=javascript&logoColor=ffdd00)
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00d4ff)
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)
+`// AI · ML · VISION`
+&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-000d1a?style=for-the-badge&logo=pytorch&logoColor=ff4444)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000d1a?style=for-the-badge&logo=tensorflow&logoColor=ff8800)
+![OpenCV](https://img.shields.io/badge/OpenCV-000d1a?style=for-the-badge&logo=opencv&logoColor=00ff88)
+![CUDA](https://img.shields.io/badge/CUDA-000d1a?style=for-the-badge&logo=nvidia&logoColor=76b900)
+![scikit-learn](https://img.shields.io/badge/sklearn-000d1a?style=for-the-badge&logo=scikit-learn&logoColor=ff8800)
+![Keras](https://img.shields.io/badge/Keras-000d1a?style=for-the-badge&logo=keras&logoColor=ff4444)
 
-**`// AI · ML · VISION`**
+`// BACKEND`
+&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-000d1a?style=for-the-badge&logo=fastapi&logoColor=00aaff)
+![Django](https://img.shields.io/badge/Django-000d1a?style=for-the-badge&logo=django&logoColor=00ff88)
+![Node.js](https://img.shields.io/badge/Node.js-000d1a?style=for-the-badge&logo=node.js&logoColor=00ff88)
+![Flask](https://img.shields.io/badge/Flask-000d1a?style=for-the-badge&logo=flask&logoColor=ffffff)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff4444)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff8800)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00ff88)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=ff8800)
-![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=76b900)
-![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=ff4444)
+`// FRONTEND`
+&nbsp;
+![React](https://img.shields.io/badge/React-000d1a?style=for-the-badge&logo=react&logoColor=00aaff)
+![Next.js](https://img.shields.io/badge/Next.js-000d1a?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-000d1a?style=for-the-badge&logo=vite&logoColor=a855f7)
+![React Native](https://img.shields.io/badge/React_Native-000d1a?style=for-the-badge&logo=react&logoColor=00aaff)
 
-**`// BACKEND · APIs`**
+`// DATA · STORAGE`
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000d1a?style=for-the-badge&logo=postgresql&logoColor=00aaff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000d1a?style=for-the-badge&logo=mongodb&logoColor=00ff88)
+![Supabase](https://img.shields.io/badge/Supabase-000d1a?style=for-the-badge&logo=supabase&logoColor=00ff88)
+![MySQL](https://img.shields.io/badge/MySQL-000d1a?style=for-the-badge&logo=mysql&logoColor=00aaff)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d4ff)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00ff88)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00ff88)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff)
-
-**`// FRONTEND`**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=a855f7)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
-
-**`// DATA · STORAGE`**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00ff88)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
-
-**`// WEB3 · TOOLS`**
-
-![Web3.js](https://img.shields.io/badge/Web3.js-0d1117?style=for-the-badge&logo=web3.js&logoColor=ff8800)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff4444)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=a855f7)
-![Selenium](https://img.shields.io/badge/Selenium-0d1117?style=for-the-badge&logo=selenium&logoColor=00ff88)
+`// WEB3 · TOOLS`
+&nbsp;
+![Web3.js](https://img.shields.io/badge/Web3.js-000d1a?style=for-the-badge&logo=web3.js&logoColor=ff8800)
+![Git](https://img.shields.io/badge/Git-000d1a?style=for-the-badge&logo=git&logoColor=ff4444)
+![Figma](https://img.shields.io/badge/Figma-000d1a?style=for-the-badge&logo=figma&logoColor=a855f7)
+![Selenium](https://img.shields.io/badge/Selenium-000d1a?style=for-the-badge&logo=selenium&logoColor=00ff88)
+![Playwright](https://img.shields.io/badge/Playwright-000d1a?style=for-the-badge&logo=playwright&logoColor=00ff88)
 
 <br/>
 
 ---
 
-### `> streak --user ShresthSamyak`
+<br/>
+
+**`〉git log --oneline --graph  # things i've shipped`**
+
+```
+* amd_slingshot     → 🔒 stealth AI project (private)
+* cadai             → 🤖 AI assistant system (private)
+* gzone / gzonev1   → 🌐 web platform (JS)
+* aircraft_tracker  → ✈️  SAR system w/ search area viz (Python)
+* tele_bot          → 🤖 hackathon tracker via Telegram + AI (Python)
+* heat-aware-routes → 🌡️  climate-aware routing (Python)
+* Hack2U_echo       → 🏆 hackathon project (JS)
+* LearnPythonAI     → 📚 AI-powered Python learning (HTML)
+* keploy [fork]     → 🧪 API testing agent (Go)
+* cal.com [fork]    → 📅 scheduling infra (TS)
+```
+
+<br/>
+
+---
+
+<br/>
+
+**`〉streak --live`**
 
 <div align="center">
 
-[![Streak Stats](https://streak-stats.demolab.com?user=ShresthSamyak&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117&ring=00d4ff&fire=ff4444&currStreakLabel=00d4ff&sideLabels=88ccff&dates=666688)](https://github.com/ShresthSamyak)
+[![Streak Stats](https://streak-stats.demolab.com?user=ShresthSamyak&theme=tokyonight&hide_border=true&border_radius=6&background=000d1a&ring=00aaff&fire=ff4444&currStreakLabel=00aaff&sideLabels=4488bb&dates=334455&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/ShresthSamyak)
 
 </div>
 
@@ -117,30 +147,32 @@ conviction = "Ship or it doesn't exist."
 
 ---
 
-### `> git log --graph`
+<br/>
+
+**`〉git log --graph  # contribution activity`**
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/ShresthSamyak/ShresthSamyak/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-
 </div>
 
 <br/>
 
 ---
 
-### `> ssh connect@shresth`
+<br/>
+
+**`〉ssh connect@shresth.dev`**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/shresth-samyak-99b61027b/)
-[![X](https://img.shields.io/badge/X__Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/ShresthSamyak)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ff4499)](https://instagram.com/innashresth)
-[![Twitch](https://img.shields.io/badge/Twitch-0d1117?style=for-the-badge&logo=twitch&logoColor=a855f7)](https://twitch.tv/flame__kaiser)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:shresthsamyak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000d1a?style=for-the-badge&logo=linkedin&logoColor=00aaff)](https://www.linkedin.com/in/shresth-samyak-99b61027b/)
+[![X](https://img.shields.io/badge/X-000d1a?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/ShresthSamyak)
+[![Instagram](https://img.shields.io/badge/Instagram-000d1a?style=for-the-badge&logo=instagram&logoColor=ff4499)](https://instagram.com/innashresth)
+[![Twitch](https://img.shields.io/badge/Twitch-000d1a?style=for-the-badge&logo=twitch&logoColor=a855f7)](https://twitch.tv/flame__kaiser)
+[![Email](https://img.shields.io/badge/Email-000d1a?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:shresthsamyak@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b00ff,50:0066ff,100:00d4ff&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000d1a,100:001428&height=130&section=footer&animation=fadeIn" width="100%"/>

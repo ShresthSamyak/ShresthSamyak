@@ -86,7 +86,7 @@ Advanced AI (fine-tuning, RAG systems, local LLM deployment), machine learning, 
 
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ShresthSamyak&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthSamyak&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthSamyak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445)
 
 </div>
 
@@ -112,7 +112,7 @@ Advanced AI (fine-tuning, RAG systems, local LLM deployment), machine learning, 
 
 <br/>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ShresthSamyak&icon=0&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=ShresthSamyak&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer" />
 

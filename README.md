@@ -19,8 +19,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShresthSamyak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-##  Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/ShresthSamyak/ShresthSamyak/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

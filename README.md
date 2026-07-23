@@ -1,11 +1,9 @@
-<h1 align="center">Shresth Samyak</h1>
+<div align="center">
+  <img src="https://github.com/ShresthSamyak/ShresthSamyak/blob/main/assets/hero.svg?raw=true" width="100%" alt="Shresth Samyak — AI Engineer: Computer Vision, LLM inference, MCP & agent security" />
+</div>
 
 <p align="center">
-  <b>AI Engineer</b> — Computer Vision, LLM inference systems, and Model Context Protocol (MCP) security.
-</p>
-
-<p align="center">
-  <a href="https://www.shresthsamyak.com/"><b>🌐 Portfolio → shresthsamyak.com</b></a>
+  <a href="https://www.shresthsamyak.com/"><b>🌐 Portfolio — shresthsamyak.com</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/shresth-samyak-99b61027b/">LinkedIn</a>
   &nbsp;·&nbsp;
@@ -16,25 +14,17 @@
 
 ---
 
-I build AI systems where correctness is measurable — LLM inference optimization, real-time computer vision, and security tooling for AI agents. Most of my work sits at the boundary between research and production: taking a model or protocol that works in a notebook and making it safe, fast, and cheap enough to ship. Based in India 🇮🇳, open to AI engineering roles and collaborations.
+### 👋 About
 
-**Focus areas:** LLM inference & token optimization · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP) & agent security · Computer Vision · applied ML on constrained hardware.
+I'm **Shresth Samyak**, an **AI Engineer** working on **computer vision**, **LLM inference optimization**, and **security for AI agents (Model Context Protocol)**. Most of my work sits at the boundary between research and production — taking a model or protocol that works in a notebook and making it safe, fast, and cheap enough to ship. Based in India 🇮🇳, open to AI engineering roles and collaborations.
 
-## Featured projects
+**Focus areas:** LLM inference &amp; token optimization · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP) &amp; agent security · Computer Vision · applied ML on constrained hardware.
 
-| Project | What it does | Result |
-| --- | --- | --- |
-| **[Tessera](https://github.com/ShresthSamyak/tessera)** | Security proxy for MCP servers — mediates and sanitizes tool calls between LLM agents and MCP tools. Published on PyPI. | **100% attack containment on AgentDojo at 33% utility cost** |
-| **[LLM Diet](https://github.com/ShresthSamyak/llm-diet)** | Prompt/context compression library for LLM pipelines. Published on PyPI. | **69% token reduction** on target workloads |
-| **[Argus](https://github.com/ShresthSamyak/argus)** | Real-time computer-vision inference system for the edge. | Runs within an **8 GB VRAM budget** |
-| **[AlphaGrid](https://github.com/ShresthSamyak/alphagrid)** | Algorithmic trading / quant engine with automated risk controls. | **10% max-drawdown kill switch** |
-
-## Open-source contributions
+### 🌱 Open source
 
 - **[google/jax](https://github.com/google/jax)** — merged a numerics fix, reviewed by Jake VanderPlas (JAX co-creator).
-- 3 merged pull requests across production open-source projects (full list on my [profile](https://github.com/ShresthSamyak?tab=repositories)).
 
-## Tech stack
+### 🧰 Tech stack
 
 **Languages**
 &nbsp;
@@ -59,27 +49,18 @@ I build AI systems where correctness is measurable — LLM inference optimizatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShresthSamyak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Shresth Samyak's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthSamyak&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+<p align="center">
+  <br/>
+  <i>Open to AI engineering roles &amp; collaborations — reach me via <a href="https://www.shresthsamyak.com/">shresthsamyak.com</a>.</i>
 </p>
 
 <!--
-  VERIFY BEFORE PUBLISHING — I could not confirm these and used best guesses:
-  1. Repo slugs in the Featured projects table:
-       tessera, llm-diet, argus, alphagrid
-     Fix any that don't match your real repo URLs, or the links 404.
-  2. PyPI package names — used "tessera-proxy" (from your notes) / "llm-diet".
-  3. Argus and AlphaGrid one-line descriptions are inferred from the project
-     names + the metric you gave. Correct them if the domain is different.
-  4. "3 merged PRs" — JAX is named; add the other two repo links if you want them shown.
+  ASSET: the animated banner is self-hosted at assets/hero.svg (SMIL animations,
+  no third-party render service) so it renders reliably on GitHub. Edit that file
+  to change the name / cycling role text.
 
-  SEO notes:
-   - The H1 (your name) and the bold role line are what Google indexes into the
-     search snippet. Keep the skill keywords in plain text near the top.
-   - Add this GitHub URL to your portfolio + LinkedIn so Google associates them.
-   - github-readme-stats is theme-neutral and renders on both light/dark. If it
-     ever rate-limits, self-host it (instructions in its repo) or delete the block.
+  SEO: name + role keywords live in the H1-equivalent hero, the bold About line,
+  and plain text (LLM, RAG, MCP, Computer Vision, PyTorch, JAX) so Google and
+  recruiter search surface this by name AND by skill. Keep the portfolio + LinkedIn
+  links present — that cross-linking is what associates the profiles.
 -->

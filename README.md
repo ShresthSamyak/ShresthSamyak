@@ -1,181 +1,85 @@
-<div align="center">
-<img src="https://github.com/ShresthSamyak/ShresthSamyak/blob/main/terminal.svg?raw=true" width="100%" alt="terminal header" />
-</div>
+<h1 align="center">Shresth Samyak</h1>
 
+<p align="center">
+  <b>AI Engineer</b> — Computer Vision, LLM inference systems, and Model Context Protocol (MCP) security.
+</p>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00AAFF&center=true&vCenter=true&width=650&lines=Building+Autonomous+Process+Intelligence+⚡;Computer+Vision+for+the+real+world;Scaling+AI+from+prototype+→+production;Solving+India's+infrastructure+with+AI;Always+shipping.+Never+stopping.)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**`〉whoami`**
-
-```yaml
-name      : Shresth Samyak
-role      : AI Engineer
-mission   : Pull a startup
-domain    : Heavy Industry · Energy · CV
-base      : India 🇮🇳
-streak    : Shipping daily
-open_to   : AI collabs · startups · vision
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`〉cat objectives.py`**
-
-```python
-building = [
-  "Autonomous Process Intelligence",
-  "Computer Vision systems",
-  "AI for India infra + pollution",
-]
-
-learning = [
-  "Fine-tuning + RAG + local LLMs",
-  "Web3 · Systems design · Finance",
-]
-
-goal = "Launch. Scale. Impact."
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <a href="https://www.shresthsamyak.com/"><b>🌐 Portfolio → shresthsamyak.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shresth-samyak-99b61027b/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/ShresthSamyak">X</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:shresthsamyak@gmail.com">Email</a>
+</p>
 
 ---
 
-<br/>
+I build AI systems where correctness is measurable — LLM inference optimization, real-time computer vision, and security tooling for AI agents. Most of my work sits at the boundary between research and production: taking a model or protocol that works in a notebook and making it safe, fast, and cheap enough to ship. Based in India 🇮🇳, open to AI engineering roles and collaborations.
 
-**`〉ls -la ./tech_stack`**
+**Focus areas:** LLM inference & token optimization · Retrieval-Augmented Generation (RAG) · Model Context Protocol (MCP) & agent security · Computer Vision · applied ML on constrained hardware.
 
-<br/>
+## Featured projects
 
-`// LANGUAGES`
+| Project | What it does | Result |
+| --- | --- | --- |
+| **[Tessera](https://github.com/ShresthSamyak/tessera)** | Security proxy for MCP servers — mediates and sanitizes tool calls between LLM agents and MCP tools. Published on PyPI. | **100% attack containment on AgentDojo at 33% utility cost** |
+| **[LLM Diet](https://github.com/ShresthSamyak/llm-diet)** | Prompt/context compression library for LLM pipelines. Published on PyPI. | **69% token reduction** on target workloads |
+| **[Argus](https://github.com/ShresthSamyak/argus)** | Real-time computer-vision inference system for the edge. | Runs within an **8 GB VRAM budget** |
+| **[AlphaGrid](https://github.com/ShresthSamyak/alphagrid)** | Algorithmic trading / quant engine with automated risk controls. | **10% max-drawdown kill switch** |
+
+## Open-source contributions
+
+- **[google/jax](https://github.com/google/jax)** — merged a numerics fix, reviewed by Jake VanderPlas (JAX co-creator).
+- 3 merged pull requests across production open-source projects (full list on my [profile](https://github.com/ShresthSamyak?tab=repositories)).
+
+## Tech stack
+
+**Languages**
 &nbsp;
-![Python](https://img.shields.io/badge/Python-000d1a?style=for-the-badge&logo=python&logoColor=00aaff)
-![C++](https://img.shields.io/badge/C++-000d1a?style=for-the-badge&logo=c%2B%2B&logoColor=00aaff)
-![Go](https://img.shields.io/badge/Go-000d1a?style=for-the-badge&logo=go&logoColor=00aaff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000d1a?style=for-the-badge&logo=typescript&logoColor=00aaff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000d1a?style=for-the-badge&logo=javascript&logoColor=ffdd00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-`// AI · ML · VISION`
+**AI · ML · Vision**
 &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-000d1a?style=for-the-badge&logo=pytorch&logoColor=ff4444)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000d1a?style=for-the-badge&logo=tensorflow&logoColor=ff8800)
-![OpenCV](https://img.shields.io/badge/OpenCV-000d1a?style=for-the-badge&logo=opencv&logoColor=00ff88)
-![CUDA](https://img.shields.io/badge/CUDA-000d1a?style=for-the-badge&logo=nvidia&logoColor=76b900)
-![scikit-learn](https://img.shields.io/badge/sklearn-000d1a?style=for-the-badge&logo=scikit-learn&logoColor=ff8800)
-![Keras](https://img.shields.io/badge/Keras-000d1a?style=for-the-badge&logo=keras&logoColor=ff4444)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-8A2BE2?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-`// BACKEND`
+**Backend · Infra**
 &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-000d1a?style=for-the-badge&logo=fastapi&logoColor=00aaff)
-![Django](https://img.shields.io/badge/Django-000d1a?style=for-the-badge&logo=django&logoColor=00ff88)
-![Node.js](https://img.shields.io/badge/Node.js-000d1a?style=for-the-badge&logo=node.js&logoColor=00ff88)
-![Flask](https://img.shields.io/badge/Flask-000d1a?style=for-the-badge&logo=flask&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-`// FRONTEND`
-&nbsp;
-![React](https://img.shields.io/badge/React-000d1a?style=for-the-badge&logo=react&logoColor=00aaff)
-![Next.js](https://img.shields.io/badge/Next.js-000d1a?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-000d1a?style=for-the-badge&logo=vite&logoColor=a855f7)
-![React Native](https://img.shields.io/badge/React_Native-000d1a?style=for-the-badge&logo=react&logoColor=00aaff)
+## GitHub stats
 
-`// DATA · STORAGE`
-&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000d1a?style=for-the-badge&logo=postgresql&logoColor=00aaff)
-![MongoDB](https://img.shields.io/badge/MongoDB-000d1a?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![Supabase](https://img.shields.io/badge/Supabase-000d1a?style=for-the-badge&logo=supabase&logoColor=00ff88)
-![MySQL](https://img.shields.io/badge/MySQL-000d1a?style=for-the-badge&logo=mysql&logoColor=00aaff)
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShresthSamyak&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Shresth Samyak's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShresthSamyak&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
-`// WEB3 · TOOLS`
-&nbsp;
-![Web3.js](https://img.shields.io/badge/Web3.js-000d1a?style=for-the-badge&logo=web3.js&logoColor=ff8800)
-![Git](https://img.shields.io/badge/Git-000d1a?style=for-the-badge&logo=git&logoColor=ff4444)
-![Figma](https://img.shields.io/badge/Figma-000d1a?style=for-the-badge&logo=figma&logoColor=a855f7)
-![Selenium](https://img.shields.io/badge/Selenium-000d1a?style=for-the-badge&logo=selenium&logoColor=00ff88)
-![Playwright](https://img.shields.io/badge/Playwright-000d1a?style=for-the-badge&logo=playwright&logoColor=00ff88)
+<!--
+  VERIFY BEFORE PUBLISHING — I could not confirm these and used best guesses:
+  1. Repo slugs in the Featured projects table:
+       tessera, llm-diet, argus, alphagrid
+     Fix any that don't match your real repo URLs, or the links 404.
+  2. PyPI package names — used "tessera-proxy" (from your notes) / "llm-diet".
+  3. Argus and AlphaGrid one-line descriptions are inferred from the project
+     names + the metric you gave. Correct them if the domain is different.
+  4. "3 merged PRs" — JAX is named; add the other two repo links if you want them shown.
 
-<br/>
-
----
-
-<br/>
-
-**`〉git log --oneline --graph  # things i've shipped`**
-
-```
-* amd_slingshot     → 🔒 stealth AI project (private)
-* cadai             → 🤖 AI assistant system (private)
-* gzone / gzonev1   → 🌐 web platform (JS)
-* aircraft_tracker  → ✈️  SAR system w/ search area viz (Python)
-* tele_bot          → 🤖 hackathon tracker via Telegram + AI (Python)
-* heat-aware-routes → 🌡️  climate-aware routing (Python)
-* Hack2U_echo       → 🏆 hackathon project (JS)
-* LearnPythonAI     → 📚 AI-powered Python learning (HTML)
-* keploy [fork]     → 🧪 API testing agent (Go)
-* cal.com [fork]    → 📅 scheduling infra (TS)
-```
-
-<br/>
-
----
-
-<br/>
-
-**`〉streak --live`**
-
-<div align="center">
-
-[![Streak Stats](https://streak-stats.demolab.com?user=ShresthSamyak&theme=tokyonight&hide_border=true&border_radius=6&background=000d1a&ring=00aaff&fire=ff4444&currStreakLabel=00aaff&sideLabels=4488bb&dates=334455&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/ShresthSamyak)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-**`〉git log --graph  # contribution activity`**
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ShresthSamyak/ShresthSamyak/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
-<br/>
-
----
-
-<br/>
-
-**`〉ssh connect@shresth.dev`**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000d1a?style=for-the-badge&logo=linkedin&logoColor=00aaff)](https://www.linkedin.com/in/shresth-samyak-99b61027b/)
-[![X](https://img.shields.io/badge/X-000d1a?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/ShresthSamyak)
-[![Instagram](https://img.shields.io/badge/Instagram-000d1a?style=for-the-badge&logo=instagram&logoColor=ff4499)](https://instagram.com/innashresth)
-[![Twitch](https://img.shields.io/badge/Twitch-000d1a?style=for-the-badge&logo=twitch&logoColor=a855f7)](https://twitch.tv/flame__kaiser)
-[![Email](https://img.shields.io/badge/Email-000d1a?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:shresthsamyak@gmail.com)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000d1a,100:001428&height=130&section=footer&animation=fadeIn" width="100%"/>
+  SEO notes:
+   - The H1 (your name) and the bold role line are what Google indexes into the
+     search snippet. Keep the skill keywords in plain text near the top.
+   - Add this GitHub URL to your portfolio + LinkedIn so Google associates them.
+   - github-readme-stats is theme-neutral and renders on both light/dark. If it
+     ever rate-limits, self-host it (instructions in its repo) or delete the block.
+-->

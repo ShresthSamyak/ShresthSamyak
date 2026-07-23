@@ -37,7 +37,7 @@ I'm **Shresth Samyak**, an **AI Engineer** working on **computer vision**, **LLM
 ### GitHub metrics
 
 <div align="center">
-  <img src="https://github.com/ShresthSamyak/ShresthSamyak/blob/main/assets/metrics.svg?raw=true" width="100%" alt="Shresth Samyak GitHub metrics: commits, stars, pull requests, top languages, and contribution activity" />
+  <img src="https://github.com/ShresthSamyak/ShresthSamyak/blob/main/assets/metrics.svg?raw=true" alt="Shresth Samyak GitHub metrics: commits, stars, pull requests, top languages, and contribution activity" />
 </div>
 
 <p align="center">

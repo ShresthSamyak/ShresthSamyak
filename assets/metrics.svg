@@ -1,0 +1,9 @@
+<svg width="860" height="140" viewBox="0 0 860 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub metrics placeholder">
+  <rect x="1" y="1" width="858" height="138" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="1" y="1" width="4" height="138" rx="2" fill="#58a6ff"/>
+  <text x="40" y="52" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">GitHub metrics</text>
+  <text x="40" y="82" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">Waiting for first render — run the “Metrics” workflow once from the Actions tab</text>
+  <text x="40" y="104" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">(after adding the METRICS_TOKEN secret). It then refreshes automatically each day.</text>
+  <circle cx="820" cy="46" r="4" fill="#58a6ff"><animate attributeName="opacity" values="1;0.3;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="820" cy="46" r="4" fill="#58a6ff" opacity="0"/>
+</svg>
